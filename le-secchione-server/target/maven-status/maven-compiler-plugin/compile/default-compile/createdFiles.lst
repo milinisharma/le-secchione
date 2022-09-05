@@ -1,0 +1,5 @@
+com\le\secchione\controller\PatientController.class
+com\le\secchione\util\FBInitialize.class
+com\le\secchione\domain\Patient.class
+com\le\secchione\LeSecchioneApplication.class
+com\le\secchione\service\PatientService.class
